@@ -1,4 +1,4 @@
-# Transfer learning task from adsorption to diffusionㅇ
+# Transfer learning task from adsorption to diffusion
 
 ## Descriptions
 ### checkpoint
